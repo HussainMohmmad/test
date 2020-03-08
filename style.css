@@ -1,0 +1,85 @@
+.form {
+    border-radius: 0px;
+    display: block;
+    background-color:rgba(239, 246, 247, 0.986);  
+    padding: 8px 10px;
+    margin:0px 0px 80px;
+}
+
+.text{
+    margin-top:5px;
+    text-align: left;
+    background-color: 25px light black;
+    border-color:10px light lightblue;
+    border:25px light blue;
+    width: 100%;
+    height: 50%;
+    padding: 5px 0px;
+}
+.Password{
+    padding: 5px 0px;
+    margin-top: 5px;
+    border-color:10px light lightblue;
+    text-align: left;
+    width:100%; 
+    border:25px light blue;
+    background-color: 25px light black;
+}
+
+
+.header{
+    text-emphasis: none;
+    text-align: center;
+    color:lightblack;
+    font-weight: small;
+    margin-top: 0px;
+font-size-adjust: none;
+    font-size: small;
+}
+
+.mainpage{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(65, 161, 216);
+    padding-top: 30px;
+
+}   
+
+.button{
+    width: 100%;
+    font-size: 15px;
+   padding: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: unset;
+    font-color:white;
+    background-color: rgb(66, 143, 231);
+    height: 100%;
+}
+.p-text{
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+
+}
+.p-texto {
+    font-size: smaller;
+    
+    }
+
+.footer {
+    display:flex;
+    flex-direction: column-reverse;
+    background-color:white;
+    height:100%;
+    width: 100%;
+    text-color: gray   ;
+}   
+
+.align{
+    text-align: left;
+
+}
+
